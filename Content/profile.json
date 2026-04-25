@@ -1,51 +1,51 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Daiki Hagiwara",
   "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
+  "Headshot": "student-portrait.jpg",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Daiki Hagiwara. I am a fourth-year Computer Science (BS) student from Japan at Seattle Pacific University. I am passionate about developing applications and games, and I am always eager to learn new things, which has helped me build strong technical skills across multiple areas of software development."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
+  "EMail": "hagiwarad@spu.edu",
   "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "Portfolio": "https://portfolio.hugeearthstation.com/home/home.html",
+  "LinkedIn": "https://www.linkedin.com/in/daiki-hagiwara/",
+  "GitHub": "https://github.com/EarthDaiki"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I am a Computer Science student at Seattle Pacific University with a strong passion for software development, systems design, and building practical technology solutions. My journey began as an international student, where I developed communication, leadership, and adaptability skills while working with diverse communities. Currently, I focus on programming, problem-solving, and creating projects that combine technical ability with real-world impact.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Graduation": "June 2027",
+  "EducationText": "Pursuing a Bachelor of Science in Computer Science with coursework in software engineering, systems design, algorithms, networking, and web development.",
+  "Employment": "None",
+  "Role": "Student",
+  "EmploymentText": "None",
+  "Skills": ["C++", "JavaScript", "Python", "HTML", "CSS", "Node.js", "Git", "AWS"],
+  "SkillsText": "Experienced in object-oriented programming, web development, cloud tools, and building full-stack projects. Strong interest in scalable systems, security, and modern software engineering practices.",
+  "Resume": "student-resume.pdf"
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Security Camera",
+    "Desc": "Built a real-time security camera system using Raspberry Pi.<br><br>Streams live video to remote viewers through WebRTC.<br><br>Designed for low-latency peer-to-peer communication without cloud dependency.",
+    "GitHubRepo": "",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png","P1Detail4.png","P1Detail5.png","P1Detail6.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Spotify Playlist Automation",
+    "Desc": "Developed a serverless Spotify playlist automation system using AWS Lambda.<br><br>Designed the application to retrieve top tracks and top artists for multiple users and update playlists automatically.<br><br>Implemented persistent state management with Amazon S3 for user metadata, playlist information, and Spotify OAuth cache files.<br><br>Enabled scheduled execution through AWS EventBridge to support fully automated periodic updates.",
+    "GitHubRepo": "https://github.com/EarthDaiki/lambda-spotify-top-tracks",
     "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "DetailImages": []
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "Reverse Engineering & API Analysis",
+    "Desc": "Analyzed real-world platforms (Instagram, Spotify, YouTube) through unofficial APIs.<br><br>Reverse engineered request/response structures and authentication flows.<br><br>Explored how modern applications communicate securely over networks.<br><br>Focused on understanding system design, not bypassing restrictions.<br><br>Built custom Python applications using reconstructed unofficial APIs.<br><br>Designed workflows to transform unstructured API responses into meaningful insights.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
-    "DetailImages": []
+    "DetailImages": ["P3Detail1.png","P3Detail2.png","P3Detail3.png","P3Detail4.png","P3Detail5.png","P3Detail6.png"]
   },
   "Project4": {
     "Title": "",
